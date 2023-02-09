@@ -1,0 +1,40 @@
+{
+    "Bangalore":{
+        "Category":{
+            "Smartphone":["None","Apple","Xiomi"],
+            "Laptop":["None","Lenovo","Mackbook"],
+            "Speaker":["None","Boat","JBL","Patron"]
+        }
+    },
+    "Nagpur":{
+        "Category":{
+            "Smartphone":["None","Poco","Xiomi"],
+            "Laptop":["None","Dell","Mackbook"]
+        }
+    },
+    "Mumbai":{
+        "Category":{
+            "Smartphone":["None","Apple","Xiomi","Realme"],
+            "Laptop":["None","Levevo","Mackbook","Dell","Asus"],
+            "Speaker":["None","Boat","JBL","Patron","Sony"]
+        }
+    },
+    "Smartphone":{
+        "Apple":["None","Iphone6","Iphone13","IphoneXR"],
+        "Xiomi":["None","Redmi 10","Xiomi N25","Redmi K10"],
+        "Poco":["None","Poco M4","M4 pro 5G","Poco X7"],
+        "Realme":["None","Realme C60","Realme M"]
+    },
+    "Laptop":{
+        "Mackbook":["None","Mackbook pro","Mackbook L"],
+        "Lenovo":["None","Ideapad L340","Yoga","Lenovo L356"],
+        "Dell":["None","Inspirion","Dell 85"],
+        "Asus":["None","Asus Gaming","Asus rog"]
+    },
+    "Speaker":{
+        "Boat":["None","Conc 25","Wireless V2"],
+        "JBL":["None","Atmega","Sonic","BASS"],
+        "Patron":["None","Patron Invade","L356"],
+        "Sony":["None","Aspire"]
+    }
+}
